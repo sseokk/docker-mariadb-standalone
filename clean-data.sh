@@ -1,4 +1,4 @@
 #!/bin/bash
-rm -r -D data/
+rm -r data
 mkdir data
-echo > ./data/.keep1
+echo > ./data/.keep
